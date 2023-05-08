@@ -1,0 +1,29 @@
+#upclose1 {
+    background-image: url('images/frame1.gif');
+    background-size: cover;
+    background-position: center;
+}
+#upclose2 {
+    background-image: url('images/frame2.gif');
+    background-size: cover;
+    background-position: center;
+}
+#upclose3 {
+    background-image: url('images/frame3.gif');
+    background-size: cover;
+    background-position: center;
+}
+#upclose4 {
+    background-image: url('images/frame4.gif');
+    background-size: cover;
+    background-position: center;
+}
+#upclose5 {
+    background-image: url('images/frame5.gif');
+    background-size: cover;
+    background-position: center;
+}
+
+#artone1{
+    background-color: black;
+}

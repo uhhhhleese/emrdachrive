@@ -1,0 +1,88 @@
+body{
+    /* background-color: black; */
+    margin: 0;
+
+}
+
+/* #color {
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    background-position: center;
+
+} */
+
+/* This allows you to be able to position html elements starting from the top left instead of displaying as block under p5.js canvas */
+#html-body{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+   
+}
+
+#color-input{
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    width: 275px;
+    margin: auto;
+}
+
+#next{
+    color: white;
+}
+
+#artone {
+    background-image: url('images/Vinyl\ Clouds\ copy.jpg');
+}
+
+#color {
+    background-image: url('images/Magazine\ Car\ copy.jpg');
+}
+
+#arttwo {
+    background-image: url('images/Magazine\ Grass\ copy.jpg');
+}
+
+#artthree {
+    background-image: url('images/Vinyl\ Swirl\ copy.jpg');
+}
+
+
+
+
+
+
+
+
+#one{
+    transition: all .4s ease-in-out;
+}
+#one:hover {
+    transform: scale(1.1);
+}
+
+#two {
+    transition: all .4s ease-in-out;
+}
+
+#two:hover{
+    transform: scale(1.1);
+}
+
+#three{
+    transition: all .4s ease-in-out;
+}
+#three:hover {
+    transform: scale(1.1);
+}
+
+#yes {
+    transition: all .4s ease-in-out;
+}
+
+#yes:hover{
+    transform: scale(1.1);
+}
+
